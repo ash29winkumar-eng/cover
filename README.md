@@ -140,7 +140,7 @@ Publish the website in the LocalHost.
     </div>
 
     <div class="footer">
-      <p><b> PRIYA B</b></p>
+      <p><b> Ashwin Kumar K S</b></p>
     </div>
 
     <div class="author-photo">
